@@ -87,11 +87,6 @@ public class ArrayAssignment2 {
 				System.out.println("Product 3 : " + superMarket[47]);
 				System.out.println("Product 4 : " + superMarket[48]);
 				System.out.println("Product 5 : " + superMarket[49]);
-				
-		
-		
-		
-
-	}
+			}
 
 }
